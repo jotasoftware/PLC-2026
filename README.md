@@ -1,4 +1,4 @@
 # PLC-2026
 
-# João Pedro Correia Leite Moreira
-# e13266
+**Aluno:** João Pedro Correia Leite Moreira  
+**Número:** e13266
